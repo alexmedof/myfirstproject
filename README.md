@@ -1,1 +1,1 @@
-Debian based docker with nginx installed.
+Debian based docker container with nginx installed.
